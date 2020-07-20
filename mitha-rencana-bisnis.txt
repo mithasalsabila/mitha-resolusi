@@ -4,7 +4,11 @@ RENCANA BISNIS MITHA
   *dimsum mozarella
   *dimsum sosis
   *dimsum mentai
+   ^pedas
+   ^asin
+   ^manis
 - Bisnis skincare
   *Laneige
   *The Body Shop
+- Bisnis properti
 
